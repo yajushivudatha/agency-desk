@@ -1,0 +1,6 @@
+{
+  "name": "AgencyDesk",
+  "description": "Multi-tenant client & project management platform purpose-built for agency-client work with tenant isolation, client portals, time tracking, and task approval.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
